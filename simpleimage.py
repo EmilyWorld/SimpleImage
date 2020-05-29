@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 Stanford CS106AP SimpleImage
 
