@@ -1,6 +1,6 @@
 # SimpleImage
 
-It is a library made by Nick Parlante from Stanford University, using Pillow library; extends Python’s functionality in terms of digital image processing.
+It is a library, using Pillow library; extends Python’s functionality in terms of digital image processing.
 
 --------------------
 Stanford CS106AP SimpleImage
